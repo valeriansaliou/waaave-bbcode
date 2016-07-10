@@ -6,7 +6,7 @@ setup(
     description='BBCode support in Django (Waaave version)',
     author='Valerian Saliou',
     author_email='valerian@valeriansaliou.name',
-    url='https://github.com/waaave/waaave-bbcode',
+    url='https://github.com/valeriansaliou/waaave-bbcode',
     packages=[
         'bbcode',
         'bbcode.bbtags',
